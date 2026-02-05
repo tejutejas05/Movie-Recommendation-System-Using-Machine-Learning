@@ -1,0 +1,10 @@
+# Ignore ML model files
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/

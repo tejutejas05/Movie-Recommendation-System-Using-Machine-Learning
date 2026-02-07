@@ -1,6 +1,7 @@
 # Ignore ML model files
 *.pkl
 *.joblib
+*.h5
 
 # Python cache
 __pycache__/
@@ -8,3 +9,10 @@ __pycache__/
 
 # Virtual environment
 .venv/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
